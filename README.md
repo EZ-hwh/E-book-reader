@@ -14,7 +14,7 @@ PyQt 5.0
 1. Clone the repository
 
 ```
-git clone https://github/EZ-hwh/E-book
+git clone https://github.com/EZ-hwh/E-book-reader
 ```
 
 2. Run server
